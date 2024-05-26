@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-hanhkv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "403b7ebd-b970-41e4-8c8b-7d962fc7d226",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
